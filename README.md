@@ -221,19 +221,6 @@ Technology + Creativity + Sound
 | 🌐 Web Applications | Business Websites & Platforms |
 | 🎵 GunZeedRex | Music Production Projects |
 
-
----
-
-# 📊 GitHub Statistics
-
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/Tkyaemsuk?user=&theme=tokyonight"/>
-
-</p>
-
-
 ---
 
 # 🎯 Current Focus
