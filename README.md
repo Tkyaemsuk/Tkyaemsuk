@@ -229,16 +229,7 @@ Technology + Creativity + Sound
 
 <p align="center">
 
-<img width="498" height="452" alt="image" src="https://github.com/user-attachments/assets/74ea65b2-7d52-47a3-9ee8-3b45db67a653" />
-
-"/>
-
-</p>
-
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ThanakritYaemsuk&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/Tkyaemsuk?user=&theme=tokyonight"/>
 
 </p>
 
