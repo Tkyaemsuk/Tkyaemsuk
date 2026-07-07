@@ -1,4 +1,4 @@
-<img width="498" height="452" alt="image" src="https://github.com/user-attachments/assets/b13d7ec9-4327-497a-93ec-f6425485febf" /><h1 align="center">
+<h1 align="center">
   👋 Hi, I'm Thanakrit Yaemsuk
 </h1>
 
@@ -221,6 +221,26 @@ Technology + Creativity + Sound
 | 🌐 Web Applications | Business Websites & Platforms |
 | 🎵 GunZeedRex | Music Production Projects |
 
+
+---
+
+# 📊 GitHub Statistics
+
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ThanakritYaemsuk&show_icons=true&theme=tokyonight"/>
+
+</p>
+
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ThanakritYaemsuk&theme=tokyonight"/>
+
+</p>
+
+
 ---
 
 # 🎯 Current Focus
@@ -258,7 +278,7 @@ Currently building:
 
 
 💻 GitHub  
-https://github.com/Tkyaemsuk
+https://github.com/ThanakritYaemsuk
 
 
 🎵 Music Producer  
